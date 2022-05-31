@@ -1,0 +1,5 @@
+module Impl
+ContactDelegate 1.0 ContactDelegate.qml
+ContactsView 1.0 ContactsView.qml
+ContactWindow 1.0 ContactWindow.qml
+
